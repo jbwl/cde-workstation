@@ -1,0 +1,57 @@
+{
+  "name": "cde-workstation",
+  "displayName": "CDE Workstation",
+  "description": "A Solaris 8 CDE, Motif and classic Unix workstation-inspired color theme collection.",
+  "version": "0.2.1",
+  "publisher": "age-of-enlightenment",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#174E84",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "CDE",
+    "Solaris",
+    "Motif",
+    "Unix",
+    "KDE",
+    "retro",
+    "workstation",
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CDE Workstation Light",
+        "uiTheme": "vs",
+        "path": "./themes/cde-workstation-light-color-theme.json"
+      },
+      {
+        "label": "CDE Workstation Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cde-workstation-dark-color-theme.json"
+      },
+      {
+        "label": "CDE Solaris Teal",
+        "uiTheme": "vs",
+        "path": "./themes/cde-solaris-teal-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matt-workstation/cde-workstation"
+  },
+  "bugs": {
+    "url": "https://github.com/matt-workstation/cde-workstation/issues"
+  },
+  "homepage": "https://github.com/matt-workstation/cde-workstation#readme"
+}

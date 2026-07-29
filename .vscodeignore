@@ -1,0 +1,7 @@
+.git/**
+.vscode/**
+.venv/**
+*.vsix
+TEC.png
+TES12128.png
+icon.svg
