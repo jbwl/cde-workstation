@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matt-workstation/cde-workstation"
+    "url": "https://github.com/mmackenz/cde-workstation"
   },
   "bugs": {
-    "url": "https://github.com/matt-workstation/cde-workstation/issues"
+    "url": "https://github.com/mmackenz/cde-workstation/issues"
   },
-  "homepage": "https://github.com/matt-workstation/cde-workstation#readme"
+  "homepage": "https://github.com/mmackenz/cde-workstation#readme"
 }
