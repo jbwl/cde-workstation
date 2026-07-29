@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2
+
+- Fixed repository URLs in package.json to point to correct GitHub repo.
+
 ## 0.2.1
 
 - Updated extension icon to Age of Enlightenment lightbulb.
