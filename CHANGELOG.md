@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.3.0
+
+- Added full **chat and inline-chat** theming (important for Kiro and AI-first editors).
+- Styled **ghost text** for inline AI/completion suggestions.
+- Added **bracket pair colorization** colors tuned to the CDE palette.
+- Themed the **editor hover widget**, suggest-widget highlights, and resize borders.
+- Added **input validation** colors (error/warning/info) with AA-compliant contrast.
+- Added **notebook** cell colors, **markdown alert** callouts, **secondary button**, **terminal command decorations**, gauge, and extra list/git decoration colors.
+- Added `menu.*` colors to the Dark and Teal variants (previously only Light had them).
+- Raised minimum VS Code engine to ^1.90.0.
+
 ## 0.2.2
 
 - Fixed repository URLs in package.json to point to correct GitHub repo.

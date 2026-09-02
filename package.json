@@ -2,7 +2,7 @@
   "name": "cde-workstation",
   "displayName": "CDE Workstation",
   "description": "A Solaris 8 CDE, Motif and classic Unix workstation-inspired color theme collection.",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "publisher": "age-of-enlightenment",
   "license": "MIT",
   "icon": "icon.png",
@@ -11,7 +11,7 @@
     "theme": "dark"
   },
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.90.0"
   },
   "categories": [
     "Themes"
