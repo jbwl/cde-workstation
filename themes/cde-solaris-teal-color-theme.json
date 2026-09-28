@@ -519,6 +519,23 @@
       }
     },
     {
+
+  "scope": [
+
+    "constant.language.symbol.hashkey.ruby"
+
+  ],
+
+  "settings": {
+
+    "foreground": "#875B19",
+
+    "fontStyle": "bold"
+
+  }
+
+}
+    {
       "scope": [
         "keyword",
         "storage.type",
